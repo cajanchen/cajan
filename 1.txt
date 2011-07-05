@@ -1,0 +1,10 @@
+total 0
+drwxr-xr-x 2 root root 180 2011-06-20 09:59 .
+drwxr-xr-x 6 root root 120 2011-06-20 09:59 ..
+lrwxrwxrwx 1 root root  10 2011-06-20 10:00 06D07950D07946C9 -> ../../sda1
+lrwxrwxrwx 1 root root  11 2011-06-20 10:00 0f18f97e-326d-483f-b419-65a3fdacd530 -> ../../sda10
+lrwxrwxrwx 1 root root  10 2011-06-20 10:00 14499469-562b-4abc-bb40-1286e0946390 -> ../../sda8
+lrwxrwxrwx 1 root root  10 2011-06-20 10:00 1796429FF7EC59C9 -> ../../sda7
+lrwxrwxrwx 1 root root  10 2011-06-20 10:00 5D5898588A9B4804 -> ../../sda5
+lrwxrwxrwx 1 root root  10 2011-06-20 10:00 5E590B5F477D76C4 -> ../../sda6
+lrwxrwxrwx 1 root root  10 2011-06-20 10:00 9caf68a8-1ae5-4dee-968c-b7d70cadd292 -> ../../sda9
